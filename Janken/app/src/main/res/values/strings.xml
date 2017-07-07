@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Janken</string>
+    <string name="ip_direction">Please enter the IP of the game server below.</string>
+    <string name="enter_ip_hint">Server IP</string>
+    <string name="connect_button_text">Connect</string>
+    <string name="no_connection">No connection found!</string>
+    <string name="no_internet">Please connect to the Internet before proceeding.</string>
+    <string name="connection_failed">Connection failed!</string>
+    <string name="unable_to_connect">Unable to reach the specified host.</string>
+    <string name="login_failed">Login failed!</string>
+    <string name="access_denied">You have entered the wrong username and/or password.</string>
+    <string name="game_creation_failed">Failed to create game!</string>
+    <string name="game_exists">A game with that name already exists.</string>
+    <string name="menu_join">Join Game</string>
+    <string name="menu_create">Create Game</string>
+    <string name="menu_stats">View Stats</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button_text">Login</string>
+    <string name="game_title_hint">Game title</string>
+    <string name="create_button_text">Create</string>
+    <string name="join_button_text">Join</string>
+    <string name="login_direction">Please enter your username and password below.</string>
+    <string name="create_game_direction">Please enter the title of your game.</string>
+    <string name="join_game_direction">Choose a game to join from the list below!</string>
+    <string name="stats_direction">Player scores</string>
+    <string name="wait_button_text">Wait</string>
+    <string name="ready_button_text">Ready</string>
+    <string name="rock_button_text">Rock</string>
+    <string name="paper_button_text">Paper</string>
+    <string name="scissors_button_text">Scissors</string>
+    <string name="connected_players_direction">Connected players:</string>
+    <string name="winner_direction">The winner is:</string>
+</resources>
